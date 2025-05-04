@@ -1,0 +1,10 @@
+101 John BCA california john@google.com
+101 John BCA california
+102 arYAn BCA india arr@hotmail.com
+003 madhu BBA Delhi102 arYAn BCA india @madhu.in
+003 madhu BBA Delhi madh@google
+101 John BCA california
+102 arYAn BCA india
+
+BCA
+003 madhu BBA Delhi
